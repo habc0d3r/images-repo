@@ -1,3 +1,3 @@
 # Website Project
 
-HTML, CSS, Javascript
+Language: HTML, CSS, Javascript
